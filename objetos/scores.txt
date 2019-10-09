@@ -1,0 +1,3 @@
+juan pablo, 10, 7, 9
+magda, 9, 9, 9
+fran 9, 6, 7
